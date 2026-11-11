@@ -27,5 +27,3 @@ The basket screen shows food bundles for different needs.
 ## My contribution
 
 I helped build, test, and refine the interactive prototype in Figma.
-
-The prototype uses sample content and simulated payments. **Design reference:** [Big Cart Grocery App on Figma Community](https://www.figma.com/design/gQOsHQcfrnGvOHcOHzMNwB/Grocery-App--Big-Cart---Community-?node-id=0-1).
