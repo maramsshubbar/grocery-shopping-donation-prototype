@@ -1,21 +1,31 @@
 # FRESH Online Market
 
-FRESH Online Market is an interactive mobile prototype for grocery shopping and charitable giving. It shows how shoppers can browse products, add items to a cart, and explore ways to donate groceries or money.
+An interactive mobile prototype for grocery shopping and charitable giving. Shoppers can browse products, add items to a cart, and explore ways to donate groceries or money.
 
-[Open the interactive Figma prototype](https://www.figma.com/proto/kSmVyK2JddTcoGtPEaQqMQ/Grocery-App--Big-Cart---Community-?node-id=160-1559&starting-point-node-id=160%3A1559)
+**[Try the interactive prototype in Figma →](https://www.figma.com/proto/kSmVyK2JddTcoGtPEaQqMQ/Grocery-App--Big-Cart---Community-?node-id=160-1559&starting-point-node-id=160%3A1559)**
 
-## Prototype Screens
+## Prototype walkthrough
 
-| Grocery Home | Donation | Donation Baskets |
-| --- | --- | --- |
-| <img src="grocery-home.png" alt="Grocery home screen with product browsing" width="235"> | <img src="grocery-donation.png" alt="Donation form with amount, recipient category, and simulated payment options" width="235"> | <img src="donation-baskets.png" alt="Grocery baskets available to donate" width="235"> |
+### 1. Browse groceries
 
-## My Contribution
+The home screen introduces product categories and featured groceries, with a shortcut to the donation flow.
+
+<p align="center"><a href="grocery-home.png"><img src="grocery-home.png" alt="Grocery home screen" width="290"></a></p>
+
+### 2. Make a donation
+
+Shoppers can select an amount, choose a recipient category, and preview the payment step.
+
+<p align="center"><a href="grocery-donation.png"><img src="grocery-donation.png" alt="Donation form" width="290"></a></p>
+
+### 3. Explore donation baskets
+
+The basket screen shows food bundles for different needs.
+
+<p align="center"><a href="donation-baskets.png"><img src="donation-baskets.png" alt="Donation basket options" width="290"></a></p>
+
+## My contribution
 
 I helped build, test, and refine the interactive prototype in Figma.
 
-## Design Scope
-
-The prototype demonstrates the shopping and donation experience with sample content and simulated payments.
-
-**Design reference:** [Big Cart Grocery App on Figma Community](https://www.figma.com/design/gQOsHQcfrnGvOHcOHzMNwB/Grocery-App--Big-Cart---Community-?node-id=0-1).
+The prototype uses sample content and simulated payments. **Design reference:** [Big Cart Grocery App on Figma Community](https://www.figma.com/design/gQOsHQcfrnGvOHcOHzMNwB/Grocery-App--Big-Cart---Community-?node-id=0-1).
