@@ -23,7 +23,3 @@ Shoppers can select an amount, choose a recipient category, and preview the paym
 The basket screen shows food bundles for different needs.
 
 <p align="center"><a href="donation-baskets.png"><img src="donation-baskets.png" alt="Donation basket options" width="290"></a></p>
-
-## My contribution
-
-I helped build, test, and refine the interactive prototype in Figma.
